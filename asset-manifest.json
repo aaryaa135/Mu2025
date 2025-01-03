@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07f70560.css",
+    "main.js": "/static/js/main.b0ff069e.js",
+    "static/js/787.8d7fd013.chunk.js": "/static/js/787.8d7fd013.chunk.js",
+    "static/media/MuriousBG.png": "/static/media/MuriousBG.d4a2d6a6dd0670cb1f16.png",
+    "index.html": "/index.html",
+    "main.07f70560.css.map": "/static/css/main.07f70560.css.map",
+    "main.b0ff069e.js.map": "/static/js/main.b0ff069e.js.map",
+    "787.8d7fd013.chunk.js.map": "/static/js/787.8d7fd013.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07f70560.css",
+    "static/js/main.b0ff069e.js"
+  ]
+}
